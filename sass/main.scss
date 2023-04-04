@@ -1,0 +1,62 @@
+
+@import 'body';
+
+
+@import 'main';
+
+
+@import 'footer';
+
+
+//circuito valles
+
+.flex-CV
+    {
+        display: flex;
+        justify-content: space-between;
+
+        .imgcv
+                {
+                    width: 50%;
+                    height: 500px;
+                    margin-right: 5px;
+                    margin-bottom: 5px;
+                }
+    }
+
+
+//ptf
+
+.MU
+    {
+        text-align: center;
+        
+    }
+
+.boxmodel
+         {
+            padding-left: 41%;
+            padding-top: 5px;
+            padding-bottom: 50px;
+            table
+                    {
+                        background-color: rgb(219, 213, 213);
+                        
+                        
+                    }
+            
+            
+         }
+.flex
+    {
+        padding-top: 50px;
+        text-align: center;
+    }
+
+//cb
+
+
+//buceo
+
+.navbar {background-color: blue;}
+

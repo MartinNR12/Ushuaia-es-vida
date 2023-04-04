@@ -1,0 +1,59 @@
+body {
+  background-color: aqua;
+}
+body div header div img {
+  height: 800px;
+  width: 100%;
+}
+
+main h1 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin-top: 5px;
+  padding: 50px;
+}
+main img {
+  height: 700px;
+  width: 100%;
+}
+
+footer {
+  background-color: blue;
+  color: aliceblue;
+}
+footer a {
+  background-color: green;
+}
+
+.flex-CV {
+  display: flex;
+  justify-content: space-between;
+}
+.flex-CV .imgcv {
+  width: 50%;
+  height: 500px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.MU {
+  text-align: center;
+}
+
+.boxmodel {
+  padding-left: 41%;
+  padding-top: 5px;
+  padding-bottom: 50px;
+}
+.boxmodel table {
+  background-color: rgb(219, 213, 213);
+}
+
+.flex {
+  padding-top: 50px;
+  text-align: center;
+}
+
+.navbar {
+  background-color: blue;
+}/*# sourceMappingURL=main.css.map */
