@@ -1,5 +1,7 @@
 body {
-  background-color: aqua;
+  background-image: url(https://cienciaybiologia.com/wp-content/uploads/2019/10/acidificacion-oceano.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 body div header div img {
   height: 800px;
@@ -18,11 +20,12 @@ main img {
 }
 
 footer {
-  background-color: blue;
-  color: aliceblue;
+  background-color: rgb(4, 0, 255);
+  color: rgb(255, 255, 255);
 }
 footer a {
   background-color: green;
+  color: black;
 }
 
 .flex-CV {
@@ -34,6 +37,10 @@ footer a {
   height: 500px;
   margin-right: 5px;
   margin-bottom: 5px;
+}
+
+.conteiner {
+  display: grid;
 }
 
 .MU {

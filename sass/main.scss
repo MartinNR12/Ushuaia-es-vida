@@ -2,7 +2,7 @@
 @import 'body';
 
 
-@import 'main';
+@import 'min';
 
 
 @import 'footer';
@@ -26,6 +26,11 @@
 
 
 //ptf
+
+.conteiner
+        {
+           display: grid;  
+        }
 
 .MU
     {
