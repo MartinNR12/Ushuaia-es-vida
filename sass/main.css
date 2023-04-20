@@ -1,11 +1,45 @@
 body {
-  background-image: url(https://cienciaybiologia.com/wp-content/uploads/2019/10/acidificacion-oceano.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+}
+body .fondo {
+  background-color: aquamarine;
+}
+body h2 {
+  text-align: center;
+  height: 100px;
+}
+body .videoptf {
+  text-align: center;
+  height: 500px;
 }
 body div header div img {
   height: 800px;
   width: 100%;
+}
+body .tabletarifa {
+  text-align: center;
+}
+body .videocb {
+  text-align: center;
+}
+body .videobuceo {
+  text-align: center;
+}
+body .videokyc {
+  text-align: center;
+}
+body .videop {
+  text-align: center;
+}
+body .videolyt {
+  text-align: center;
+}
+body .videocabalgata {
+  text-align: center;
+}
+body .videotren {
+  text-align: center;
 }
 
 main h1 {
